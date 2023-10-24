@@ -1,5 +1,5 @@
-print ("Hello World")
+print ("Print pattern program:")
 i = 5
 while i<= 5
- print ("*" * i)
- i += 1
+ print ("*" * 2)
+ i += 2
